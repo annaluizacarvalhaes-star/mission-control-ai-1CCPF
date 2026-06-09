@@ -2,7 +2,7 @@ print("=" * 60)
 print("MISSION CONTROL AI")
 print("=" * 60)
 print("Missão: Orion Test Alpha")
-print("Equipe: Equipe Apollo")
+print("Equipe: Equipe Girls")
 print("Quantidade de ciclos analisados: 6")
 print("=" * 60)
 
